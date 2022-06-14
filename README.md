@@ -23,7 +23,7 @@ Anem a començar!
 - Obriu el LAB i comenceu:
 
   ```bash
-   $ cd lab-vue-basics
+   $ cd lab-vue-basics-cat
    $ npm install
    $ npm start
   ```
